@@ -17,9 +17,7 @@ st.write("""
 #     start_date = st.sidebar.text_input("Start Date", "2020-01-02")
 #     end_date = st.sidebar.text_input("End Date", "2020-08-08")
 #     stock_symbol = st.sidebar.text_input("Stock Symbol", "AMZN")
-
 #     return start_date, end_date, stock_symbol 
-
 
 # # function for grabbing company name 
 # def get_company_name(symbol):
